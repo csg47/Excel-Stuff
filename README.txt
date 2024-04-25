@@ -1,6 +1,6 @@
 ReadMe
 
-Data Source: Alex Freberg, "Alex the Analyst", https://youtu.be/opJgMj1IUrc?si=dTFBwA2KS38pdOi1
+Data Source: Alex Freberg, "Alex the Analyst", https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/659bf2a03970ecf0d9b110541576c13e4f4e32f8/Excel%20Project%20Dataset.xlsx
 Data Description: An imaginary chain of bicycle stores ("Two Wheels") collected various demographic data on the customers that entered their stores such as age, gender, income, commute distance, home and car ownership, etc.  (see "working" worksheet for raw data collected)
 Analysis Goals: The Two Wheels executives aim to gain deeper insights into the characteristics of customers who choose to purchase bicycles from their stores.
 Project Goals:  To showcase Excel skills in data cleaning, data transformations (e.g. binary encoding, binning), creating pivot charts and building interactive dashboards for presentation and further analysis.
